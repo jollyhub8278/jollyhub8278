@@ -4,7 +4,10 @@
 ---
 
 ###  About Me
-I'm a Computer Science student who loves building things that are fast, clean, and make sense. Most of my time goes into crafting modern web apps with React, Next.js, Node.js, and Express but I’m equally drawn to the beauty of algorithms and computational geometry. I enjoy challenging myself with graph-based optimization problems and finding patterns that turn chaos into clarity. When I'm not debugging or architecting systems, you’ll find me refining my TypeScript skills, learning better backend patterns, and pushing myself to write code that feels both powerful and purposeful.
+Final-year CS student at IIT Guwahati (2026), building full-stack products end-to-end — from system design to deployment. My recent work spans a CRDT-based real-time collaborative editor with WebRTC P2P networking, an AI-powered social media scheduler (TrendSync) built with the MERN stack and OpenAI integration, and data pipelines processing high-volume event streams with ~70% load-time improvements.
+Core stack: React, Node.js, Express, TypeScript, MongoDB, AWS. Strong foundation in system design, algorithms, and data structures — I like problems where correctness under concurrency or scale is the real challenge, not just shipping UI.
+Recognized as Top Performer at HACKSAGON (IEEE, ABV-IIITM Gwalior) and acknowledged at ISRO's Bharatiya Antariksh Hackathon. Actively contributing to open source through GirlScript Summer of Code.
+Open to SDE and frontend roles — always happy to connect.
 
 ---
 
